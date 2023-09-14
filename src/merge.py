@@ -38,4 +38,4 @@ def merge(x: list[int], y: list[int]) -> list[int]:
     return z
 
 
-print(merge([1, 2, 4, 6], [1, 3, 4, 5]))
+#print(merge([1, 2, 4, 6], [1, 3, 4, 5]))
